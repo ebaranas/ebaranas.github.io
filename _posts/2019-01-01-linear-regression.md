@@ -3,7 +3,6 @@ layout: post
 title: Linear Regression
 ---
 
-<!DOCTYPE html>
 <html>
 
 <head>
