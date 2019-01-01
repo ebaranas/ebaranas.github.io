@@ -8,6 +8,8 @@ Hi! I'm Filipina currently based in London. My interests lie in stochastic and q
 
 This blog is primarily to help me remember things, but if you pick up something useful then great!
 
+Also, this site is freshly made, so please bear with me while I polish my blogging workflow. Cheers!
+
 
 ### Contact me
 
