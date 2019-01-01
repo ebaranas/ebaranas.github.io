@@ -1,3 +1,8 @@
+---
+layout: post
+title: Linear regression and why least squares
+---
+
 <html>
 
 <head>
