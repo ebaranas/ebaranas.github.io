@@ -4,12 +4,11 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+Hi! I'm Filipina currently based in London. My interests lie in stochastic and quantum dynamics, and machine learning.
 
-### More Information
+This blog is primarily to help me remember things, but if you pick up something useful then great!
 
-A place to include any other types of information that you'd like to include about yourself.
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[eb.aranas@gmail.com](mailto:eb.aranas@gmail.com)
