@@ -9,49 +9,7 @@
 </head>
 
 <body class="stackedit">
-  <div class="stackedit__left">
-    <div class="stackedit__toc">
-      
-<ul>
-<li>
-<ul>
-<li><a href="#quick-recap">Quick recap</a></li>
-<li><a href="#normal-equations-and-the-geometry-of-least-squares">Normal equations and the geometry of least squares</a>
-<ul>
-<li>
-<ul>
-<li>
-<ul>
-<li></li>
-</ul>
-</li>
-</ul>
-</li>
-</ul>
-</li>
-<li><a href="#why-least-squares-maximum-likelihood-estimation-for-the-gaussian">Why least squares: Maximum likelihood estimation for the Gaussian</a>
-<ul>
-<li>
-<ul>
-<li>
-<ul>
-<li></li>
-</ul>
-</li>
-</ul>
-</li>
-</ul>
-</li>
-<li><a href="#in-summary">In summary</a></li>
-</ul>
-</li>
-</ul>
-
-    </div>
-  </div>
-  <div class="stackedit__right">
-    <div class="stackedit__html">
-      <p>TLDR:</p>
+  <div class="stackedit__html"><p>TLDR:</p>
 <ul>
 <li>Least squares regression is the method of finding the line through a set of data that minimises the sum of squared errors.</li>
 <li>In linear algebra, finding the optimal parameters is the same as solving the normal equation.</li>
@@ -184,9 +142,7 @@ s-65,47,-65,47z M834 80H400000v40H845z"></path></svg></span></span></span><span 
 </li>
 </ol>
 </section>
-
-    </div>
-  </div>
+</div>
 </body>
 
 </html>
